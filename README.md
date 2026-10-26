@@ -228,6 +228,8 @@ The application includes dedicated quick-test buttons for the 4 benchmark valida
 3. **Informational Guidance**: The assistant provides regulatory clarification but does not replace legal counsel.
 
 ---
+🔗 Try the live demo: https://pdpl-guide-ai.streamlit.app/
+
 
 ## 📤 GitHub Upload Commands
 
