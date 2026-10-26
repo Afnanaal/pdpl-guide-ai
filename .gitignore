@@ -1,0 +1,38 @@
+# Environment variables and secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit local state and caches
+.streamlit/secrets.toml
+
+# Scratch files and temporary tests
+scratch/
+scratch_*.py
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+data/*.pdf
